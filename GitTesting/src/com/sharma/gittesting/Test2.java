@@ -4,7 +4,7 @@ public class Test2 {
 
 
 
-	String test250;
+	String test150;
 	String test350;
 
 }
