@@ -5,7 +5,9 @@ public class Test1 {
 	
 	String abc;
 	String def;
-	String hundred;
+	String thousand;
+	
+	String twohundres;
 
 
 
